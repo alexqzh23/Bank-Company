@@ -1,1 +1,2 @@
-# MVC-Bank
+# Bank Company
+Java MVC Bank Company
